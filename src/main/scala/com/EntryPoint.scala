@@ -1,3 +1,5 @@
+package com
+
 import scala.collection.mutable.ArrayBuffer
 
 class EntryPoint {
